@@ -1,0 +1,14 @@
+jd-aipay-onboarding/reference/api/02-create-order.md
+  h_b770e9110d3b9a 50,198
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "92f2e99a01c212554d51f096ba8ab85baef320d3",
+  "prompts": {},
+  "humans": {
+    "h_b770e9110d3b9a": {
+      "author": "zhouzhenjiang3 <zhouzhenjiang@jd.com>"
+    }
+  }
+}
