@@ -1,0 +1,58 @@
+jd-aipay-onboarding/SKILL.md
+  h_b770e9110d3b9a 157
+jd-aipay-onboarding/assets/server-examples/go-quickstart/README.md
+  h_b770e9110d3b9a 1-60
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/aipay_test.go
+  h_b770e9110d3b9a 1-200
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/cert.go
+  h_b770e9110d3b9a 1-76
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/cms.go
+  h_b770e9110d3b9a 1-108
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/common.go
+  h_b770e9110d3b9a 1-284
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/config.go
+  h_b770e9110d3b9a 1-151
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/der.go
+  h_b770e9110d3b9a 1-178
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/envelope.go
+  h_b770e9110d3b9a 1-87
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/interop_local_test.go
+  h_b770e9110d3b9a 1-77
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/pkcs12.go
+  h_b770e9110d3b9a 1-467
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/rc2.go
+  h_b770e9110d3b9a 1-100
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/sm2.go
+  h_b770e9110d3b9a 1-235
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/sm3.go
+  h_b770e9110d3b9a 1-147
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/sm4.go
+  h_b770e9110d3b9a 1-151
+jd-aipay-onboarding/assets/server-examples/go-quickstart/aipay/util.go
+  h_b770e9110d3b9a 1-126
+jd-aipay-onboarding/assets/server-examples/go-quickstart/cmd/create_order_gateway_demo/main.go
+  h_b770e9110d3b9a 1-110
+jd-aipay-onboarding/assets/server-examples/go-quickstart/cmd/query_pay_result_gateway_demo/main.go
+  h_b770e9110d3b9a 1-46
+jd-aipay-onboarding/assets/server-examples/go-quickstart/cmd/query_refund_result_gateway_demo/main.go
+  h_b770e9110d3b9a 1-46
+jd-aipay-onboarding/assets/server-examples/go-quickstart/cmd/refund_gateway_demo/main.go
+  h_b770e9110d3b9a 1-72
+jd-aipay-onboarding/assets/server-examples/go-quickstart/go.mod
+  h_b770e9110d3b9a 1-3
+jd-aipay-onboarding/playbooks/16-server-integration-go.md
+  h_b770e9110d3b9a 1-34
+jd-aipay-onboarding/scripts/render_server_example.sh
+  h_b770e9110d3b9a 3,9,92-93,149-154,165-166,293-304,385-389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "580be6ae9f25aecef8bf50cb699a5aef3d5cd011",
+  "prompts": {},
+  "humans": {
+    "h_b770e9110d3b9a": {
+      "author": "zhouzhenjiang3 <zhouzhenjiang@jd.com>"
+    }
+  }
+}
